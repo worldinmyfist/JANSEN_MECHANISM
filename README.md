@@ -1,5 +1,5 @@
-# JANSEN_MECHANISM
-This repo contains code to simulate Jansen mechanism using Newton-Raphson method.
+# Jansen_Mechanism
+This repo contains code to simulate Jansen Mechanism (1 leg) using Newton-Raphson method. The code can be extended to more legs by synchronising the movement of different legs as per requirement.
 
 ## HOW TO RUN THE CODE
 Run this command in MATLAB:
